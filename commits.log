@@ -1,0 +1,86 @@
+commit 148358d993ff924f0f2d5bfe6b190014577f6d94
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 15:20:47 2022 -0500
+
+    agregando dos parrafos
+
+commit c8d093dd08845cd126b252a2d158c9a12a022cf6
+Merge: 8fecc23 19f95a6
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 15:17:25 2022 -0500
+
+    resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 8fecc238350f83c38eb9e3bf238d959c308a935a
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 13:49:20 2022 -0500
+
+    agregando estaciones del año con fecha de inicio
+
+commit 19f95a601e5f7d1c2bf063b8edabb010897ada00
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 13:49:20 2022 -0500
+
+    agregando las estaciones del año
+
+commit 25469e21671c2eb5a81cdc981915e21b19f47c6e
+Merge: 2eafdf3 a84d349
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 13:37:59 2022 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit a84d3496da0a88487d21937f6096e9d48e0ea813
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 13:26:34 2022 -0500
+
+    agregando index.js al index.html
+
+commit 2eafdf39a7d117fe2b86cca0fa54913174d24ade
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 13:20:48 2022 -0500
+
+    agregando style.css al index.html
+
+commit 0651d045187af1b71dbe837590a84838cc8a9840
+Merge: afea27a 43ec16d
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 13:08:50 2022 -0500
+
+    Merge branch 'js' into main
+
+commit 43ec16d43207acdbea1b91afde1f459fc85c7257
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 12:56:46 2022 -0500
+
+    creando index.js
+
+commit afea27aa784008bb93116357771f019f47646179
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 12:50:28 2022 -0500
+
+    creando style.css
+
+commit ff90ecf8272c5a7854735acf7dabfaebbef1abc9
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 12:43:09 2022 -0500
+
+    creando index.html
+
+commit 88336ee2539c977ee2cf79352f66fd1b771f8c46
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 12:23:50 2022 -0500
+
+    ignorando archivos .exe
+
+commit f4725cef9de0fbd91eed7ded7ee49728e5edf76b
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 12:02:58 2022 -0500
+
+    agregando contenido al README
+
+commit 6237696ef2d96cd5afe69c00797780c951932080
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 11:58:35 2022 -0500
+
+    first commit
