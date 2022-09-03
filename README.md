@@ -1,7 +1,7 @@
 # repositorio nuevo con rama main
 
-agregando mas contenido al _README.md_
+¿quieres dominar el uso de _git_? 
 
-este comit es para oficializar nuestra version **1.0.0**.
+mirea este [enlace](https://osvash.com/git).
 
-cambio de prueba
+![flujo de git](1.png)
