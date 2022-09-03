@@ -1,3 +1,42 @@
+commit 6a8fd1d186f3f5eb299af84d5cfa3a5b9fe612b9
+Merge: 7de6ff5 2afa065
+Author: osvash <66085223+osvash@users.noreply.github.com>
+Date:   Sat Sep 3 13:16:26 2022 -0500
+
+    Merge pull request #1 from osv01/am
+    
+    Am
+
+commit 2afa065a52f790faa340951145aaf273722721b1
+Author: osv01 <osv.shw@gmail.com>
+Date:   Sat Sep 3 12:43:13 2022 -0500
+
+    haciendo mejoras al README del repositorio
+
+commit db23c427b295073b84c3f51a8f19888f59edf83c
+Author: osv01 <osv.shw@gmail.com>
+Date:   Sat Sep 3 12:18:44 2022 -0500
+
+    cambio de prueba de la segunda cuenta de git
+
+commit 7de6ff5fde33a62e307c85a393ff4ddd6281984a
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Sat Sep 3 10:37:06 2022 -0500
+
+    agregando imagen del flujo git y dando presentacion al index.html
+
+commit 738d14970189c4a5efbbbb1894425b73cd6db94b
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 16:52:32 2022 -0500
+
+    v1.0.0
+
+commit d54c19ede2b3731f6529f9c81411353adda26f71
+Author: osvash <osantiago.hr@gmail.com>
+Date:   Fri Sep 2 16:22:08 2022 -0500
+
+    respaldando logs del repositorio
+
 commit 148358d993ff924f0f2d5bfe6b190014577f6d94
 Author: osvash <osantiago.hr@gmail.com>
 Date:   Fri Sep 2 15:20:47 2022 -0500
